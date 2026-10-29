@@ -1,0 +1,12 @@
+Reading netlist file: "D:\KY_4_IC2001\FAP201\FAP201_Lab2\impl\gwsynthesis\FAP201_Lab2.vg"
+WARN  (PA1005) : "D:\KY_4_IC2001\FAP201\FAP201_Lab2\impl\gwsynthesis\FAP201_Lab2.vg":38 | Module 'Lab02tb' contains empty port list
+Parsing netlist file "D:\KY_4_IC2001\FAP201\FAP201_Lab2\impl\gwsynthesis\FAP201_Lab2.vg" completed
+Processing netlist completed
+Reading constraint file: "D:\KY_4_IC2001\FAP201\FAP201_Lab2\src\Lab2.cst"
+ERROR  (CT1135) : "D:\KY_4_IC2001\FAP201\FAP201_Lab2\src\Lab2.cst":8 | Can't find object named 'i_sw1'
+ERROR  (CT1135) : "D:\KY_4_IC2001\FAP201\FAP201_Lab2\src\Lab2.cst":9 | Can't find object named 'i_sw1'
+ERROR  (CT1135) : "D:\KY_4_IC2001\FAP201\FAP201_Lab2\src\Lab2.cst":12 | Can't find object named 'i_sw2'
+ERROR  (CT1135) : "D:\KY_4_IC2001\FAP201\FAP201_Lab2\src\Lab2.cst":13 | Can't find object named 'i_sw2'
+ERROR  (CT1135) : "D:\KY_4_IC2001\FAP201\FAP201_Lab2\src\Lab2.cst":16 | Can't find object named 'o_led'
+ERROR  (CT1135) : "D:\KY_4_IC2001\FAP201\FAP201_Lab2\src\Lab2.cst":17 | Can't find object named 'o_led'
+Physical Constraint parsed completed with errors

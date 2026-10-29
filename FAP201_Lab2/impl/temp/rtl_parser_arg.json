@@ -1,0 +1,27 @@
+{
+ "Device" : "GW5A-25A",
+ "Files" : [
+  {
+   "Path" : "D:/KY_4_IC2001/FAP201/FAP201_Lab2/src/Lab2.v",
+   "Type" : "verilog"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/KY_4_IC2001/FAP201/FAP201_Lab2/src/Lab2.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/KY_4_IC2001/FAP201/FAP201_Lab2/src/Lab2tb.vhd",
+   "Type" : "vhdl"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "D:/KY_4_IC2001/FAP201/FAP201_Lab2/impl/temp/rtl_parser.result",
+ "Top" : "Lab2",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}
